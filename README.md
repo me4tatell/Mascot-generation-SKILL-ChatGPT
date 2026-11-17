@@ -1,1 +1,1 @@
-# Maskot-generation-SKILL-ChatGPT
+# Mascot-generation-SKILL-ChatGPT
