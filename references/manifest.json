@@ -1,0 +1,395 @@
+{
+  "skill_version": "0.1.5",
+  "selected_by_user_on": "2026-11-17",
+  "files": [
+    {
+      "path": "references/character/01-hoodie-traveler.jpg",
+      "source_folder": "референсы",
+      "source_filename": "5b29e0cf62ddba75752bcadd565b16fc2b52c1b5.png",
+      "role": "character",
+      "generation_allowed": true,
+      "sha256": "3a55ac52ceef79813f801144ae5b4ab9026c38af95ae8d1168bbecb7a662c91f",
+      "bytes": 236372,
+      "source_sha256": "ab771b16f1bdbe5e92d34d5b8c36ce2b7d4db1bf3c793002a5acd5fa47e04ce1",
+      "source_bytes": 1389601,
+      "source_dimensions": [
+        1047,
+        1536
+      ],
+      "dimensions": [
+        1047,
+        1536
+      ]
+    },
+    {
+      "path": "references/character/02-business-suit.jpg",
+      "source_folder": "референсы",
+      "source_filename": "964cebde78b0b305d0015e37397635a9483ffb1f.png",
+      "role": "character",
+      "generation_allowed": true,
+      "sha256": "1c0656f6d0dabce374cbb34453bb80e78ee862688125f2b0ea0697e20be489e8",
+      "bytes": 342773,
+      "source_sha256": "d429cd88a76c636759bfbe892f6675c18b8022c8d8a28180028d0004b7e31bd2",
+      "source_bytes": 10524827,
+      "source_dimensions": [
+        3087,
+        4096
+      ],
+      "dimensions": [
+        1158,
+        1536
+      ]
+    },
+    {
+      "path": "references/character/03-varsity-green.jpg",
+      "source_folder": "референсы",
+      "source_filename": "c44e2561f47955dc297f2e26098fdb8031a72700.png",
+      "role": "character",
+      "generation_allowed": true,
+      "sha256": "ad7109cc289b28e9b5ac3c7018c8176fee334bb99a61f2625459c08d11f833f4",
+      "bytes": 132797,
+      "source_sha256": "2153629816c8c890928c369c7c403eaccfbcfc62c9a2dda8922af199ee11dbfe",
+      "source_bytes": 1020711,
+      "source_dimensions": [
+        928,
+        1152
+      ],
+      "dimensions": [
+        928,
+        1152
+      ]
+    },
+    {
+      "path": "references/character/04-skateboard.jpg",
+      "source_folder": "референсы",
+      "source_filename": "c6014468c52b5a11207e2628ef37b9fd8a3c4cd3.jpg",
+      "role": "character",
+      "generation_allowed": true,
+      "sha256": "27864b37e0975e1a2a821795e29d8244800e7f605f75247a6833f37c779827e1",
+      "bytes": 338423,
+      "source_sha256": "f44556099c7d7bcd793060d27e7fb035efefdb08ce45e374afd00df06fb1d037",
+      "source_bytes": 675945,
+      "source_dimensions": [
+        2048,
+        2048
+      ],
+      "dimensions": [
+        1536,
+        1536
+      ]
+    },
+    {
+      "path": "references/character/05-tablet-red-overshirt.jpg",
+      "source_folder": "референсы",
+      "source_filename": "ec28f244712cfbfe9e4fd14d115aa38b45582a6d.png",
+      "role": "character",
+      "generation_allowed": true,
+      "sha256": "6c57b1e6b028761a54131883f4e97b254f9912a7e8ae11fd147063a3587d45cb",
+      "bytes": 309106,
+      "source_sha256": "9819df51dc704f7d75be24064be8502c842b1c41f7b7b2cca01d3162fae357fc",
+      "source_bytes": 14549508,
+      "source_dimensions": [
+        3395,
+        4096
+      ],
+      "dimensions": [
+        1273,
+        1536
+      ]
+    },
+    {
+      "path": "references/character/06-technical-jacket.jpg",
+      "source_folder": "референсы",
+      "source_filename": "magnific__-1-2-2-1-1-__67209 1.png",
+      "role": "character",
+      "generation_allowed": true,
+      "sha256": "6b4754fb66721528fb5e31d2a91598ee9486512e434f4c609e3a8c9fbe2914ea",
+      "bytes": 210281,
+      "source_sha256": "b59795aff4ca84a273ba058d2592215376a605bc656b5627dd354fe9554b9330",
+      "source_bytes": 2916845,
+      "source_dimensions": [
+        2133,
+        2841
+      ],
+      "dimensions": [
+        1153,
+        1536
+      ]
+    },
+    {
+      "path": "references/character/07-varsity-full-body.jpg",
+      "source_folder": "референсы",
+      "source_filename": "magnific_1-2-1_2930947585 (1) копия 2.png",
+      "role": "character",
+      "generation_allowed": true,
+      "sha256": "6c4782beaa914e58e6fd9e4d877349f1ab7de5b776d000aa67d522767faa96d3",
+      "bytes": 151965,
+      "source_sha256": "a8be58b661164cf4d4c170d7825f520e0a18082c5b15223c1392f882321e3856",
+      "source_bytes": 1996660,
+      "source_dimensions": [
+        1757,
+        2619
+      ],
+      "dimensions": [
+        1030,
+        1536
+      ]
+    },
+    {
+      "path": "references/environment/01-winter-warrior.jpg",
+      "source_folder": "Окружение",
+      "source_filename": "cbea5d4f1484a81eb1f82db3f5b9b055a98c3588.png",
+      "role": "environment",
+      "generation_allowed": true,
+      "sha256": "c98ae2c551f2496ac82bd1130c5a2d596ba1a80b06ade4907d8a4428a71c8083",
+      "bytes": 852055,
+      "source_sha256": "f986a32aa5bb83751d30f35aa806daacfacd72e607aa4522d49d90b404910a60",
+      "source_bytes": 3559655,
+      "source_dimensions": [
+        1388,
+        1500
+      ],
+      "dimensions": [
+        1388,
+        1500
+      ]
+    },
+    {
+      "path": "references/environment/02-chess.jpg",
+      "source_folder": "Окружение",
+      "source_filename": "chess_rhino.png",
+      "role": "environment",
+      "generation_allowed": true,
+      "sha256": "638ac023dcc52aac98c5b499cf56a6b922ab8bb1fb94b5d7fc369382fb1ec923",
+      "bytes": 295660,
+      "source_sha256": "fb67f0144e509edc119abc722c0f5f1cafc623cfd4815c33a96c4ad4ebcffe2f",
+      "source_bytes": 2594909,
+      "source_dimensions": [
+        992,
+        1072
+      ],
+      "dimensions": [
+        992,
+        1072
+      ]
+    },
+    {
+      "path": "references/environment/03-fairytale.jpg",
+      "source_folder": "Окружение",
+      "source_filename": "fairytale_rhino_v2.png",
+      "role": "environment",
+      "generation_allowed": true,
+      "sha256": "33d831c1c4a631d5befdfc3fc904a161affa9cdb0e48882f2c10cecf4efed824",
+      "bytes": 520128,
+      "source_sha256": "4ac38851bf6755495b7954d0af1d7f45fa593fb9e97d1318291097c4f9acdf5d",
+      "source_bytes": 1928232,
+      "source_dimensions": [
+        992,
+        1072
+      ],
+      "dimensions": [
+        992,
+        1072
+      ]
+    },
+    {
+      "path": "references/environment/04-hockey-action.jpg",
+      "source_folder": "Окружение",
+      "source_filename": "hockey_rhino_v3.png",
+      "role": "environment",
+      "generation_allowed": true,
+      "sha256": "f3ce414cf7bdb25eb810bab765e47fbe011a734e94e670fa50a56191fba70545",
+      "bytes": 388718,
+      "source_sha256": "ddaf00ecfeb5af52a5a71221e17b7c32d7df1860aa60d03e4b4d16bfd14fe9b5",
+      "source_bytes": 1793304,
+      "source_dimensions": [
+        992,
+        1072
+      ],
+      "dimensions": [
+        992,
+        1072
+      ]
+    },
+    {
+      "path": "references/environment/05-hockey-standing.jpg",
+      "source_folder": "Окружение",
+      "source_filename": "hockey_rhino.png",
+      "role": "environment",
+      "generation_allowed": true,
+      "sha256": "96ca25dd4951e1473746776b8c4bb0d27b42bffbe95a3283403cfaccda2f0ae5",
+      "bytes": 334275,
+      "source_sha256": "c18d770447b6f3b26bf6d6df3b146317e613d8bfff915b706eb91a7a4d6142c9",
+      "source_bytes": 2529338,
+      "source_dimensions": [
+        992,
+        1072
+      ],
+      "dimensions": [
+        992,
+        1072
+      ]
+    },
+    {
+      "path": "references/environment/06-satellite-lab.jpg",
+      "source_folder": "Окружение",
+      "source_filename": "satellite_scientist_rhino_v2.png",
+      "role": "environment",
+      "generation_allowed": true,
+      "sha256": "1e43bb022f79aa1ac93c7ed8b2f41eeaa26613a24678ae162f03ca28b1edb68c",
+      "bytes": 361977,
+      "source_sha256": "958d6927c9466f36a29a14ebf818dcbac7e60d5db3d08e0cc64af5c66aef9a81",
+      "source_bytes": 1730156,
+      "source_dimensions": [
+        992,
+        1072
+      ],
+      "dimensions": [
+        992,
+        1072
+      ]
+    },
+    {
+      "path": "references/failures/01-bearded-warrior.jpg",
+      "source_folder": "Неудачные генерации",
+      "source_filename": "1781679806457-019ed463-bcfb-7e4d-9afd-daf6b6bb29cf.webp",
+      "role": "failure-analysis-only",
+      "generation_allowed": false,
+      "sha256": "ec59794f6bce97a88de83130c9a64f8a759a7d4b53e4fc434b97e0d86b234b97",
+      "bytes": 407255,
+      "source_sha256": "6027becb4a8d383762507c43745fa908704758ec1bf1c4ffc24e49a891179752",
+      "source_bytes": 689846,
+      "source_dimensions": [
+        1344,
+        1792
+      ],
+      "dimensions": [
+        768,
+        1024
+      ]
+    },
+    {
+      "path": "references/failures/02-victory-athlete.jpg",
+      "source_folder": "Неудачные генерации",
+      "source_filename": "1781681782999-019ed481-e3f0-78f4-907c-265b07cbf1ce.webp",
+      "role": "failure-analysis-only",
+      "generation_allowed": false,
+      "sha256": "f81c1e78bf2bd7b00b9c9cb94e1b774d21451eb22ce56e26a9b5a7ae11aa9ff6",
+      "bytes": 274666,
+      "source_sha256": "97d9d899f2951edac1a8ca6c6173364159d959b7ad87331361c3096f1818a827",
+      "source_bytes": 569976,
+      "source_dimensions": [
+        1344,
+        1792
+      ],
+      "dimensions": [
+        768,
+        1024
+      ]
+    },
+    {
+      "path": "references/failures/03-space-villain.jpg",
+      "source_folder": "Неудачные генерации",
+      "source_filename": "1781686181779-019ed4c4-2f56-7495-baeb-a9eb04325df5.png",
+      "role": "failure-analysis-only",
+      "generation_allowed": false,
+      "sha256": "eb55ac3cca51f2535737238c0afd243188144c5396178f0c024d21d11095d677",
+      "bytes": 296407,
+      "source_sha256": "7477088e0e646b816c0d51b4a2bf63a27aa2bddbc1235e983f77b41545c05006",
+      "source_bytes": 5435433,
+      "source_dimensions": [
+        1984,
+        2144
+      ],
+      "dimensions": [
+        948,
+        1024
+      ]
+    },
+    {
+      "path": "references/failures/04-frontal-city.jpg",
+      "source_folder": "Неудачные генерации",
+      "source_filename": "1781686676543-019ed4cc-4cc0-7446-8cf0-a223c40db94c.png",
+      "role": "failure-analysis-only",
+      "generation_allowed": false,
+      "sha256": "68e6d562e3f436b700a65fbc27c228f679d010dfa6ec6e7ed53d13616a63e206",
+      "bytes": 367857,
+      "source_sha256": "a5ee6bbeb8c896da6aa46cbac974b4c24a90d55f3e2075c91edd01bcb48d2eff",
+      "source_bytes": 6938394,
+      "source_dimensions": [
+        1969,
+        2128
+      ],
+      "dimensions": [
+        947,
+        1024
+      ]
+    },
+    {
+      "path": "references/failures/05-polo.jpg",
+      "source_folder": "Неудачные генерации",
+      "source_filename": "1781782506507-019eda82-be88-754b-9654-ca75e0e47ade.png",
+      "role": "failure-analysis-only",
+      "generation_allowed": false,
+      "sha256": "6e4b4c023a500b5e8d878da0b7e933b3db3c909241bb715d28249d778c45fe10",
+      "bytes": 139715,
+      "source_sha256": "6978acc6c6c7d9a583ec55d5283fe47349eca24289eed0417ca4166a45240223",
+      "source_bytes": 5143688,
+      "source_dimensions": [
+        1984,
+        2144
+      ],
+      "dimensions": [
+        948,
+        1024
+      ]
+    },
+    {
+      "path": "references/failures/06-painted-skateboard.jpg",
+      "source_folder": "Неудачные генерации",
+      "source_filename": "Снимок экрана 2026-11-17 131015.png",
+      "role": "failure-analysis-only",
+      "generation_allowed": false,
+      "sha256": "1ec8312a549075aa0b5bbb40affc69dcf267e16854399a4fd3d37970e6bd6032",
+      "bytes": 93860,
+      "source_sha256": "9350ac5563abbee582fded56defba89097a959ed6704165e2609111ce077fee4",
+      "source_bytes": 347422,
+      "source_dimensions": [
+        328,
+        471
+      ],
+      "dimensions": [
+        328,
+        471
+      ]
+    },
+    {
+      "path": "references/failures/07-painted-skateboard.jpg",
+      "source_folder": "Неудачные генерации",
+      "source_filename": "Снимок экрана 2026-11-17 131110.png",
+      "role": "failure-analysis-only",
+      "generation_allowed": false,
+      "sha256": "c03b764bc5be61ba85f4815f3af5319b4ab56440aa6f7e5714b2c15f28a1b9bb",
+      "bytes": 114545,
+      "source_sha256": "69042a45c443974c82dc47322614527f88d24c74d1bc659e31612e1fe8d2e740",
+      "source_bytes": 394676,
+      "source_dimensions": [
+        330,
+        469
+      ],
+      "dimensions": [
+        330,
+        469
+      ]
+    }
+  ],
+  "image_optimization": {
+    "jpeg_quality": 93,
+    "jpeg_subsampling": "4:4:4",
+    "character_max_edge": 1536,
+    "failure_max_edge": 1024,
+    "environment_keep_resolution": true,
+    "alpha_background": "white",
+    "upscale": false
+  }
+}

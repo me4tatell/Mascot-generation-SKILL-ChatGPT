@@ -1,0 +1,4 @@
+interface:
+  display_name: "Маскот Иван"
+  short_description: "Образы и серии с Иваном по эталонным референсам"
+  default_prompt: "Используй $ivan-mascot: обсудим план новой серии иллюстраций с персонажем."
